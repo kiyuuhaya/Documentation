@@ -1,2 +1,2 @@
 # Documentation
-Documentation for the project's source code
+Documentation for this group's INTROSE project
